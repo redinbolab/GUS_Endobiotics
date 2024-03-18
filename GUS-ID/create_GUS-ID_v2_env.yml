@@ -1,0 +1,9 @@
+name: GUS-ID_v2.0
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - biopython=1.79.*
+  - blast=2.12.*
+  - python=3.11.*
