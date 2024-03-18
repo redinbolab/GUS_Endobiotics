@@ -1,14 +1,3 @@
-### GUS_Loop_Class_ID_Ver_3.2
-### This code was written and edited by Joshua J. Sekela, Joshua B. Simpson, and Parth B. Jariwala.
-### This code is owned exclusively by the laboratory of Matthew Redinbo at UNC-Chapel Hill. https://www.redinbolab.org/.
-### This code is intended and may be used only for academic research.
-### If issues running this code arise, please direct all questions and concerns to redinbo@unc.edu.
-### If data collected using this code is intended for publication, please inquire at redinbo@unc.edu for proper citation.
-### GUS classifications are assigned according to parameters described in:
-###### Structure (2017) 25(7):967-977.e5. doi: 10.1016/j.str.2017.05.003.
-###### J Biol Chem (2018) 293(48):18559-18573. doi: 10.1074/jbc.RA118.005414.
-###### J Molec Biol (2019) 431(5):970-980. doi: 10.1016/j.jmb.2019.01.013.
-
 ##### Import modules
 import sys
 import os
@@ -22,7 +11,7 @@ from os.path import exists
 import shutil
 
 ############ Setup ############
-# - conda/mamba create -n fitFinder python biopythonå
+# - conda/mamba create -n fitFinder python biopython
 
 ############ Usage ############
 # - conda/mamba activate fitFinder
