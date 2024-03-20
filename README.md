@@ -16,7 +16,7 @@ Omics-Taxonomic Rank t-Tests: Defines t-Test statistics for rate Z-scores as a f
 
 
 
-**Directories for Scripts Corresponding to Specific Manuscript Figures**
+**Directories for Scripts Generating Manuscript Figures**
 
   Figure 1C: GF_v_Conv_Heatmap
 
