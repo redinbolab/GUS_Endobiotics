@@ -15,8 +15,8 @@ from itertools import chain, combinations
 
 ############ Usage ############
 # - conda/mamba activate fitFinder
-# - python omics_ttest_v1.py {mgx/mpx} {out_filename.xlsx}
-# - python omics_ttest_v1.py 
+# - python omics_ttest_v2.py {mgx/mpx} {out_filename.xlsx}
+# - python omics_ttest_v2.py 
 
 ############ Reformat Abundance Data for Regression Analysis + Function Definitions ############
 

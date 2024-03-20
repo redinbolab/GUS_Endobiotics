@@ -15,9 +15,9 @@ import time
 
 ############ Usage ############
 # - conda/mamba activate fitFinder
-# - python fitFinder_metaproteomics_v4.1.py {RMSD_threshold, float or NA}
-# - python fitFinder_metaproteomics_v4.1.py 2
-# - python fitFinder_metaproteomics_v4.1.py NA
+# - python fitFinder_metaproteomics_v4.2.py {RMSD_threshold, float or NA}
+# - python fitFinder_metaproteomics_v4.2.py 2
+# - python fitFinder_metaproteomics_v4.2.py NA
 
 ############ Reformat Abundance Data for Regression Analysis + Function Definitions ############
 
