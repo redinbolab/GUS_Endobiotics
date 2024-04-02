@@ -1,4 +1,4 @@
-This repository includes all code related to "Gut Microbial Beta-Glucuronidases Influence Endobiotic Homeostasis and Are Modulated by Diverse Therapeutics", accepted to be published in Cell Host & Microbe.
+This repository includes all code related to **Gut Microbial Beta-Glucuronidases Influence Endobiotic Homeostasis and Are Modulated by Diverse Therapeutics**, accepted to be published in *Cell Host & Microbe*.
 
 
 Identify Beta-Glucuronidase (GUS) enzymes from a protein FASTA file with [GUS-ID](https://github.com/redinbolab/GUS_Endobiotics/tree/main/GUS%20Identification/GUS-ID).
