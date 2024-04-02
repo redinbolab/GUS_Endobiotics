@@ -7,7 +7,7 @@ Identify the structural class of GUS proteins within a protein FASTA file with [
 
 Identify structure-informed rate-abudnance associations with [FitFinder](https://github.com/redinbolab/GUS_Endobiotics/tree/main/Proteomic%20Abduance-Rate%20Regression%20Analysis).
 
-Define statistics for rate-microbial abundance associations at each taxonomic rank with [Omics_ttest](https://github.com/redinbolab/GUS_Endobiotics/tree/main/Omics-Taxonomic%20Rank%20t-Tests).
+Define statistics for rate-microbial abundance associations at each taxonomic rank with [Omics_ttest](https://github.com/redinbolab/GUS_Endobiotics/tree/main.Omics-Taxonomic%20Rank%20t-Tests).
 
 
 
