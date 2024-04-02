@@ -1,6 +1,4 @@
-Scripts Corresponding to Analyses and Figures in 
-
-"Gut Microbial Beta-Glucuronidases Influence Endobiotic Homeostasis and Are Modulated by Diverse Therapeutics"
+This repository includes all code related to "Gut Microbial Beta-Glucuronidases Influence Endobiotic Homeostasis and Are Modulated by Diverse Therapeutics", accepted to be published in Cell Host & Microbe.
 
 
 **General Analysis**
