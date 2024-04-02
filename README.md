@@ -9,8 +9,7 @@ Identify structure-informed rate-abudnance associations with [FitFinder](https:/
 
 Define statistics for rate-microbial abundance associations at each taxonomic rank with [Omics_ttest](https://github.com/redinbolab/GUS_Endobiotics/tree/main/Omics-Taxonomic%20Rank%20t-Tests).
 
-
-
+****
 **Directories for Scripts Generating Manuscript Figures**
 
   Figure 1C: GF_v_Conv_Heatmap
