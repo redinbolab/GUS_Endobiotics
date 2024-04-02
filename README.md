@@ -3,11 +3,11 @@ This repository includes all code related to "Gut Microbial Beta-Glucuronidases 
 
 Identify Beta-Glucuronidase (GUS) enzymes from a protein FASTA file with [GUS-ID](https://github.com/redinbolab/GUS_Endobiotics/tree/main/GUS%20Identification/GUS-ID).
 
-Identify the structural class of GUS proteins within a protein FASTA file with [GUS_Loop_ID](https://github.com/redinbolab/GUS_Endobiotics/tree/main/GUS%20Identification/) .GUS%20Structural%20Class%20ID).
+Identify the structural class of GUS proteins within a protein FASTA file with [GUS_Loop_ID](https://github.com/redinbolab/GUS_Endobiotics/tree/main/GUS%20Identification/GUS%20Structural%20Class%20ID).
 
 Identify structure-informed rate-abudnance associations with [FitFinder](https://github.com/redinbolab/GUS_Endobiotics/tree/main/Proteomic%20Abduance-Rate%20Regression%20Analysis).
 
-Define statistics for rate-microbial abundance associations at each taxonomic rank with [Omics_ttest](https://github.com/redinbolab/GUS_Endobiotics/tree/main.Omics-Taxonomic%20Rank%20t-Tests).
+Define statistics for rate-microbial abundance associations at each taxonomic rank with [Omics_ttest](https://github.com/redinbolab/GUS_Endobiotics/tree/main/Omics-Taxonomic%20Rank%20t-Tests).
 
 
 
