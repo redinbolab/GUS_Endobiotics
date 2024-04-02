@@ -1,16 +1,13 @@
 This repository includes all code related to "Gut Microbial Beta-Glucuronidases Influence Endobiotic Homeostasis and Are Modulated by Diverse Therapeutics", accepted to be published in Cell Host & Microbe.
 
 
-**General Analysis**
+Identify Beta-Glucuronidase (GUS) enzymes from a protein FASTA file with [GUS-ID](https://github.com/redinbolab/GUS_Endobiotics/tree/main/GUS%20Identification/GUS-ID).
 
-GUS Identification/GUS-ID: Identifies GUS proteins from input protein fasta file using structural metagenomics approach as described in manuscript (Supplemental Figure 4). 
+Identify the structural class of GUS proteins within a protein FASTA file with [GUS_Loop_ID](https://github.com/redinbolab/GUS_Endobiotics/tree/main/GUS%20Identification/) .GUS%20Structural%20Class%20ID).
 
-GUS Identification/GUS Structural Class ID: Identifies structural class of GUS proteins within input protein fasta file using parameters as described in manuscript (Supplemental Figure 1).
+Identify structure-informed rate-abudnance associations with [FitFinder](https://github.com/redinbolab/GUS_Endobiotics/tree/main/Proteomic%20Abduance-Rate%20Regression%20Analysis).
 
-Proteomic Abundance-Rate Regression Analysis: Defines regression statistics for rates-abudnance associations within specified protein structural similarity thresholds.
-
-Omics-Taxonomic Rank t-Tests: Defines t-Test statistics for rate Z-scores as a function of relative bacterial abudnance for each taxonomic rank.
-
+Define statistics for rate-microbial abundance associations at each taxonomic rank with [Omics_ttest](https://github.com/redinbolab/GUS_Endobiotics/tree/main/Omics-Taxonomic%20Rank%20t-Tests).
 
 
 
